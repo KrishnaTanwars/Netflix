@@ -13,7 +13,7 @@ Technologies Used:
 
 Getting Started:
 - Clone the repository to your local machine using:
-- git clone https://github.com/yourusername/Netflix-Clone.git
+- git clone https://github.com/KrishnaTanwars/Netflix-Clone.git
 - Open index.html in your web browser to view the project.
 
 License:
