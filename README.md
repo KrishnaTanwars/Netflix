@@ -12,8 +12,7 @@ Technologies Used:
 - Google Fonts: Custom fonts are imported from Google Fonts to enhance the typography of the site.
 
 Getting Started:
-- Clone the repository to your local machine using:
-- git clone https://github.com/KrishnaTanwars/Netflix-Clone.git
+- Clone the repository to your local machine.
 - Open index.html in your web browser to view the project.
 
 License:
